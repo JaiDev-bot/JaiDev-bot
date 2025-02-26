@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi! I am Jaiane Soares! 🐧🎯
 
-<!--
-**JaiDev-bot/JaiDev-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiane-de-barros-soares-5897802b5/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jaiane GitHub stats](https://github-readme-stats.vercel.app/api?username=JaiDev-bot&_icons=true&theme=catppuccin_mocha)
+
+
+My Technologies 🎯
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiDev-bot&layout=compact&theme=catppuccin_mocha)
+
+
