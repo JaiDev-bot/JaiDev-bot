@@ -11,3 +11,10 @@ My Technologies 🎯
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiDev-bot&layout=compact&theme=catppuccin_mocha)
 
 
+My projects 🎯
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=congenial-pyt-calculator&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/congenial-pyt-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=love&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/love)
+
+
+
