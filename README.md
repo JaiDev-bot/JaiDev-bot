@@ -13,9 +13,8 @@ Statistics 🎯
 
 My projects 🎯
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=congenial-pyt-calculator&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/congenial-pyt-calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=love&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/love)
-#
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=EmbaralhadorDePalavrasLIVRO&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/EmbaralhadorDePalavrasLIVRO)
+
 
 My contributions 🎯
 
