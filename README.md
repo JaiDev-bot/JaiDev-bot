@@ -9,8 +9,7 @@ Hi, I am Jaiane Soares!
 Statistics 🎯
 
 ![Jaiane GitHub stats](https://github-readme-stats.vercel.app/api?username=JaiDev-bot&_icons=true&theme=catppuccin_mocha)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiDev-bot&layout=compact&theme=catppuccin_mocha)
-#
+<img src="https://i.pinimg.com/736x/b4/94/37/b49437169e0878cb16a08a732a843d19.jpg" alt="foto" heigth=30% width=19%>
 
 My projects 🎯
 
