@@ -1,5 +1,7 @@
 Hi, I am Jaiane Soares!
 
+![foto anime  (1)](https://github.com/user-attachments/assets/13e58230-b47e-4b8b-b48b-2098457629e8)
+
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jaianesoares700@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jaiane-de-barros-soares-5897802b5/)
@@ -9,7 +11,7 @@ Hi, I am Jaiane Soares!
 Statistics 🎯
 
 ![Jaiane GitHub stats](https://github-readme-stats.vercel.app/api?username=JaiDev-bot&_icons=true&theme=catppuccin_mocha)
-<img src="https://i.pinimg.com/736x/b4/94/37/b49437169e0878cb16a08a732a843d19.jpg" alt="foto" heigth=30% width=20%>
+
 
 My projects 🎯
 
