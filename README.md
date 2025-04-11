@@ -1,8 +1,10 @@
-Hello, I'm Jaiane Soares! 
+
+
+
+
+![foto anime  (1)](https://github.com/JaiDev-bot/JaiDev-bot/blob/main/foto%20pixel%20(1).png)
 
 I'm studying for a bachelor's degree in software engineering.
-
-![foto anime  (1)](https://github.com/user-attachments/assets/13e58230-b47e-4b8b-b48b-2098457629e8)
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jaianesoares700@gmail.com)
