@@ -12,16 +12,18 @@ I'm studying for a bachelor's degree in software engineering.
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.com/channels/@me)
 #
 
-Statistics 🎯
+Technologies 🎯
 
-![Jaiane GitHub stats](https://github-readme-stats.vercel.app/api?username=JaiDev-bot&_icons=true&theme=catppuccin_mocha)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git)](https://skillicons.dev)
 
-
+#
 My projects 🎯
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=CadastroDePessoas&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/CadastroDePessoas)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=EmbaralhadorDePalavrasLIVRO&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/EmbaralhadorDePalavrasLIVRO)
 
-
+#
 My contributions 🎯
 
 <picture align="center">
