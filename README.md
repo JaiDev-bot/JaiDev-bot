@@ -19,7 +19,7 @@ Technologies 🎯
 #
 My projects 🎯
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=CadastroDePessoas&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/CadastroDePessoas)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=EmbaralhadorDePalavrasLIVRO&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/EmbaralhadorDePalavrasLIVRO)
 
