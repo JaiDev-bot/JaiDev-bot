@@ -20,6 +20,7 @@ Technologies 🎯
 My projects 🎯
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=SistemaDeBiblioteca&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/SistemaDeBiblioteca)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=EmbaralhadorDePalavrasLIVRO&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/EmbaralhadorDePalavrasLIVRO)
 
