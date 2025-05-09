@@ -19,8 +19,10 @@ Technologies 🎯
 #
 My projects 🎯
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=SistemaMercado&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/SistemaMercado)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=EmbaralhadorDePalavrasLIVRO&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/EmbaralhadorDePalavrasLIVRO)
+
 
 #
 My contributions 🎯
