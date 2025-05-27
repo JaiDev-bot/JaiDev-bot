@@ -22,7 +22,7 @@ My projects 🎯
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devs-Otakus&repo=Kurama-Lang&theme=catppuccin_mocha)](https://github.com/Devs-Otakus/Kurama-Lang)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=CRUD&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/CRUD)
 
