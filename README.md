@@ -28,9 +28,6 @@ My projects 🎯
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=CRUD&theme=catppuccin_mocha)](https://github.com/JaiDev-bot/CRUD)
-
-
 #
 My contributions 🎯
 
