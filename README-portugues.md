@@ -1,5 +1,6 @@
+[**English version // Versão em inglês**](README.md)
 
-![foto anime  (1)](https://github.com/JaiDev-bot/JaiDev-bot/blob/main/foto%20pixel%20(1).png)
+![foto anime  (1)](https://github.com/JaiDev-bot/JaiDev-bot/blob/main/jaipixel%20(1).png)
 
 Estou cursando bacharelado em engenharia de software.
 
