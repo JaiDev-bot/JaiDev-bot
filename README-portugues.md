@@ -24,7 +24,7 @@ Tecnologias:
 
 Projetos:
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=CRUD&theme=holi)](https://github.com/JaiDev-bot/CRUD)
 
 
 
