@@ -1,5 +1,5 @@
 
-
+[**Portuguese version // Versão português**](README-portugues.md)
 
 
 ![foto anime  (1)](https://github.com/JaiDev-bot/JaiDev-bot/blob/main/foto%20pixel%20(1).png)
