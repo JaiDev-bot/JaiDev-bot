@@ -30,7 +30,7 @@ Technologies:
 My projects:
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuplaDinamica-doo&repo=decision-api&theme=holi)](https://github.com/DuplaDinamica-doo/decision-api)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=Zoomanager&theme=holi)](https://github.com/JaiDev-bot/Zoomanager)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=StudentManagement&theme=holi)](https://github.com/JaiDev-bot/StudentManagement)
