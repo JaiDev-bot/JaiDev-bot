@@ -37,7 +37,7 @@ https://chat.whatsapp.com/JnrvDm9lHE3J1fTab7jp7N
 Tecnologias: 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgresql)](https://skillicons.dev)
 #
 
 Projetos:
