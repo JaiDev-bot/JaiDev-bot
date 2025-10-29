@@ -1,10 +1,21 @@
 [**English version // Versão em inglês**](README.md)
 
-![foto anime  (1)](https://github.com/JaiDev-bot/JaiDev-bot/blob/main/jaipixel%20(1).png)
 
-Estou cursando bacharelado em engenharia de software.
+Olá, me chamo Jaiane!!
 
-Amo café, animes, livros e programar!
+<div align="center">
+  <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
+</div>
+
+###
+
+
+
+###
+
+Atualmente estou cursando Bacharelado em Engenharia de Software.
+Sou apaixonada por café, animes, livros e programação! 
+Estou estudando Java e Microsoft Azure, buscando aprimorar minhas habilidades em desenvolvimento backend e cloud. 
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jaianesoares700@gmail.com)
