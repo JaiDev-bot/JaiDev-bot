@@ -1,12 +1,18 @@
 
 [**Portuguese version // Versão português**](README-portugues.md)
 
+Hello, my name is Jaiane!!
 
-![foto anime  (1)](https://github.com/JaiDev-bot/JaiDev-bot/blob/main/foto%20pixel%20(1).png)
+<div align="center">
+  <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
+</div>
 
-I'm studying for a bachelor's degree in software engineering.
+###
 
-I love coffee, anime, books and programming!
+I’m currently pursuing a Bachelor’s degree in Software Engineering.
+I’m passionate about coffee, anime, books, and coding! 
+Right now, I’m studying Java and Microsoft Azure, focusing on improving my skills in development and cloud computing.
+
 
 
 
