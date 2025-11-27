@@ -20,7 +20,11 @@ Olá, me chamo Jaiane!!
 ###
 
 Atualmente estou cursando Bacharelado em Engenharia de Software.
+
 Sou apaixonada por café, animes, livros e programação! 
+
+Tenho um leve vicio em sudokus... talvez não seja tão leve assim. 
+
 Estou estudando Java e Microsoft Azure, buscando aprimorar minhas habilidades em desenvolvimento backend e cloud. 
 
 
