@@ -23,7 +23,7 @@ Atualmente estou cursando Bacharelado em Engenharia de Software.
 
 Sou apaixonada por café, animes, livros e programação! 
 
-Tenho um leve vicio em sudokus... talvez não seja tão leve assim. 
+Tenho um pequeno vício em jogos de Sudoku... talvez não seja tão pequeno assim, afinal.
 
 Estou estudando Java e Microsoft Azure, buscando aprimorar minhas habilidades em desenvolvimento backend e cloud. 
 
