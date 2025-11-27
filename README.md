@@ -16,7 +16,11 @@ Hello, my name is Jaiane!!
 ###
 
 I’m currently pursuing a Bachelor’s degree in Software Engineering.
+
 I’m passionate about coffee, anime, books, and coding! 
+
+I have a slight addiction to Sudoku puzzles... maybe it's not so slight after all.
+
 Right now, I’m studying Java and Microsoft Azure, focusing on improving my skills in development and cloud computing.
 
 
