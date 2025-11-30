@@ -19,7 +19,7 @@ Olá, me chamo Jaiane!!
 
 ###
 
-Atualmente estou cursando Bacharelado em Engenharia de Software.
+Engenheira de software em formação.
 
 Sou apaixonada por café, animes, livros e programação! 
 
