@@ -15,13 +15,7 @@ Hello, my name is Jaiane!!
 
 ###
 
-I’m currently pursuing a Bachelor’s degree in Software Engineering.
-
-I’m passionate about coffee, anime, books, and coding! 
-
-I have a slight addiction to Sudoku puzzles... maybe it's not so slight after all.
-
-Right now, I’m studying Java and Microsoft Azure, focusing on improving my skills in development and cloud computing.
+Software engineer in training, addicted to Sudoku, philosophy, books, and the pursuit of the perfect aesthetic between back-end, data analysis, and user experience. Transforming logic into human connection. While the world focuses on the 'how', I get lost in the 'why'. Studying Java and cloud not just to build systems, but to design experiences that make people feel that technology still has a soul (and a very creative developer).
 
 
 
