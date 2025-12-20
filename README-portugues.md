@@ -19,13 +19,9 @@ Olá, me chamo Jaiane!!
 
 ###
 
-Engenheira de software em formação.
+Engenheira de software em formação, viciada em sudoku, filosofia, livros e na busca pela estética perfeita entre o back-end, analise de dados e a experiência do usuario. Transformando lógica em conexão humana. Enquanto o mundo foca no 'como', eu me perco no 'porquê'. Estudando Java e cloud não apenas para construir sistemas, mas para desenhar experiências que façam as pessoas sentirem que a tecnologia ainda tem alma (e uma desenvolvedora bem criativa).
 
-Sou apaixonada por café, animes, livros e programação! 
 
-Tenho um pequeno vício em jogos de Sudoku... talvez não seja tão pequeno assim, afinal.
-
-Estou estudando Java e Microsoft Azure, buscando aprimorar minhas habilidades em desenvolvimento backend e cloud. 
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jaianesoares700@gmail.com)
