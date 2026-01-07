@@ -5,9 +5,9 @@
 
 [**Portuguese version // Versão português**](README-portugues.md)
 
+---
 
-
-# Hello, my name is Jaiane!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7154B&width=435&lines=Hello%2C+my+name+is+Jaiane!!)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
