@@ -4,10 +4,10 @@
 </div>
 
 [**Portuguese version // Versão português**](README-portugues.md)
-#
 
 
-Hello, my name is Jaiane!!
+
+# Hello, my name is Jaiane!!
 
 <div align="center">
   <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
@@ -19,26 +19,27 @@ Software engineer in training, addicted to Sudoku, philosophy, books, and the pu
 
 
 
-
+<div align="center">
  
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jaianesoares700@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jaiane-barros-7ab179377/)
 [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@Jaidev-l5f)
-#
 
-My dev community:
 
-https://chat.whatsapp.com/JnrvDm9lHE3J1fTab7jp7N
-#
 
-Technologies: 
+---
 
+
+## Technologies: 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgresql)](https://skillicons.dev)
-#
 
-My projects:
 
+---
+
+## My projects:
+
+</div>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeStormNinja&repo=when-and-weather&theme=holi)](https://github.com/CodeStormNinja/when-and-weather
@@ -47,7 +48,12 @@ My projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=StudentManagement&theme=holi)](https://github.com/JaiDev-bot/StudentManagement)
 #
-My contributions:
+
+<div align = "center">
+  
+## My contributions:
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaiDev-bot/JaiDev-bot/output/pacman-contribution-graph-dark.svg">
