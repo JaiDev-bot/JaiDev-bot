@@ -7,7 +7,7 @@
 [**English version // Versão em inglês**](README.md)
 #
 
-Olá, me chamo Jaiane!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7154B&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jaiane)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
@@ -22,34 +22,40 @@ Olá, me chamo Jaiane!!
 Engenheira de software em formação, viciada em sudoku, filosofia, livros e na busca pela estética perfeita entre o back-end, analise de dados e a experiência do usuario. Transformando lógica em conexão humana. Enquanto o mundo foca no 'como', eu me perco no 'porquê'. Estudando Java e cloud não apenas para construir sistemas, mas para desenhar experiências que façam as pessoas sentirem que a tecnologia ainda tem alma (e uma desenvolvedora bem criativa).
 
 
-
+<div align = "center">
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jaianesoares700@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jaiane-de-barros-soares-5897802b5/)
 [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@Jaidev-l5f)
-#
 
-Minha comunidade dev:
 
-https://chat.whatsapp.com/JnrvDm9lHE3J1fTab7jp7N
-#
 
-Tecnologias: 
+
+
+
+## Tecnologias: 
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgresql)](https://skillicons.dev)
-#
 
-Projetos:
+
+## Projetos:
+
+</div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeStormNinja&repo=when-and-weather&theme=holi)](https://github.com/CodeStormNinja/when-and-weather
 )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=Zoomanager&theme=holi)](https://github.com/JaiDev-bot/Zoomanager)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=StudentManagement&theme=holi)](https://github.com/JaiDev-bot/StudentManagement)
-#
-#
-Contribuições:
+
+
+<div align= "center">
+
+  
+## Contribuições:
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaiDev-bot/JaiDev-bot/output/pacman-contribution-graph-dark.svg">
