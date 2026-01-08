@@ -3,7 +3,7 @@
    src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&fontSize=70&fontColor=FFFFFFFFFFF&fontAlign=49&fontAlignY=50&stroke=FFFFFFFFFFFFFFFFFFFFFF&strokeWidth=2&animation=blinking&descSize=41&descAlign=51&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-[**English version // Versão em inglês**](README-portugues.md)
+[**English version // Versão em inglês**](README-ing.md)
 
 ---
 
