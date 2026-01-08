@@ -3,11 +3,12 @@
    src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&fontSize=70&fontColor=FFFFFFFFFFF&fontAlign=49&fontAlignY=50&stroke=FFFFFFFFFFFFFFFFFFFFFF&strokeWidth=2&animation=blinking&descSize=41&descAlign=51&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-[**Portuguese version // Versão português**](README-portugues.md)
+[**English version // Versão em inglês**](README-portugues.md)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7154B&width=435&lines=Hello%2C+my+name+is+Jaiane!!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7154B&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jaiane)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
@@ -15,8 +16,7 @@
 
 ###
 
-Software engineer in training, addicted to Sudoku, philosophy, books, and the pursuit of the perfect aesthetic between back-end, data analysis, and user experience. Transforming logic into human connection. While the world focuses on the 'how', I get lost in the 'why'. Studying Java and cloud not just to build systems, but to design experiences that make people feel that technology still has a soul (and a very creative developer).
-
+Engenheira de software em formação, viciada em sudoku, filosofia, livros e na busca pela estética perfeita entre o back-end, analise de dados e a experiência do usuario. Transformando lógica em conexão humana. Enquanto o mundo foca no 'como', eu me perco no 'porquê'. Estudando Java e cloud não apenas para construir sistemas, mas para desenhar experiências que façam as pessoas sentirem que a tecnologia ainda tem alma (e uma desenvolvedora bem criativa).
 
 
 <div align="center">
@@ -30,28 +30,30 @@ Software engineer in training, addicted to Sudoku, philosophy, books, and the pu
 ---
 
 
-## Technologies: 
+## Tecnologias: 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgresql)](https://skillicons.dev)
 
 
 ---
 
-## My projects:
+## Meus projetos:
 
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeStormNinja&repo=when-and-weather&theme=holi)](https://github.com/CodeStormNinja/when-and-weather
-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=Zoomanager&theme=holi)](https://github.com/JaiDev-bot/Zoomanager)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=StudentManagement&theme=holi)](https://github.com/JaiDev-bot/StudentManagement)
+| Projeto | Proposta de Valor | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Sentinela AI](https://github.com/jaidev-bot/sentinela-ai)** | Analise de sentimento com o Azure AI Language para processar satisfação de clientes através de comentários reais da Olist | `Java`, `Azure AI`, `Cosmos DB` | ![Critical](https://img.shields.io/badge/Security-Critical-red) |
+| **[Echoes of Kindness](https://github.com/jaidev-bot/echoes-kindness)** | O Echoes of Kindness usa IA da Azure e Spring Boot para transcrever consultas em tempo real. Foca em acessibilidade com legendas de alto contraste e salva dados no Cosmos DB. | `Java`, `Spring Boot`, `Azure Speech` | ![UX](https://img.shields.io/badge/UX-Accessibility-green) |
+| **[ZooManager](https://github.com/jaidev-bot/zoomanager)** | Sistema de API desenvolvido com Java e Spring Boot para otimizar processos essenciais de gestão em instalações zoológicas. | `Java`, `JPA`, `PostgreSQL`, `Swagger` | ![Arch](https://img.shields.io/badge/Arch-Clean-blue) |
+
 #
 
 <div align = "center">
   
-## My contributions:
+## Minhas contribuições:
 
 </div>
 
