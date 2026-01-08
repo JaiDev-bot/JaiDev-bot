@@ -4,10 +4,10 @@
 </div>
 
 
-[**English version // Versão em inglês**](README.md)
+[**Portuguese version // Versão em português**](README.md)
 #
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7154B&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jaiane)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7154B&width=435&lines=Hello%2C+my+name+is+Jaiane!!)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
@@ -19,7 +19,12 @@
 
 ###
 
-Engenheira de software em formação, viciada em sudoku, filosofia, livros e na busca pela estética perfeita entre o back-end, analise de dados e a experiência do usuario. Transformando lógica em conexão humana. Enquanto o mundo foca no 'como', eu me perco no 'porquê'. Estudando Java e cloud não apenas para construir sistemas, mas para desenhar experiências que façam as pessoas sentirem que a tecnologia ainda tem alma (e uma desenvolvedora bem criativa).
+Software Engineer in the making, Sudoku addict, and a lover of philosophy and books. 
+I am on a constant quest for the perfect aesthetic balance between back-end architecture, 
+data analysis, and user experience. My mission is to transform logic into human connection. While the world focuses on the "how," 
+I lose myself in the "why." I study Java and Cloud not just to build systems, but to design 
+experiences that make people feel that technology still has a soul (and a very creative 
+developer behind it).
 
 
 <div align = "center">
@@ -33,13 +38,13 @@ Engenheira de software em formação, viciada em sudoku, filosofia, livros e na 
 
 
 
-## Tecnologias: 
+## Technologies: 
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgresql)](https://skillicons.dev)
 
 
-## Projetos:
+## My Projects:
 
 </div>
 
@@ -53,7 +58,7 @@ Engenheira de software em formação, viciada em sudoku, filosofia, livros e na 
 <div align= "center">
 
   
-## Contribuições:
+## My Contributions:
 
 </div>
 
