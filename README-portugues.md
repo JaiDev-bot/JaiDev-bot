@@ -48,12 +48,11 @@ developer behind it).
 
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeStormNinja&repo=when-and-weather&theme=holi)](https://github.com/CodeStormNinja/when-and-weather
-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=Zoomanager&theme=holi)](https://github.com/JaiDev-bot/Zoomanager)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaiDev-bot&repo=StudentManagement&theme=holi)](https://github.com/JaiDev-bot/StudentManagement)
-
+| Project | Value Proposition | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Sentinela AI](https://github.com/jaidev-bot/sentinela-ai)** | Sentiment analysis powered by Azure AI Language to process customer satisfaction using real data from Olist. | `Java`, `Azure AI`, `Cosmos DB` | ![Critical](https://img.shields.io/badge/Security-Critical-red) |
+| **[Echoes of Kindness](https://github.com/jaidev-bot/echoes-kindness)** | Leveraging Azure AI and Spring Boot for real-time consultation transcription, focusing on accessibility with high-contrast captioning. | `Java`, `Spring Boot`, `Azure Speech` | ![UX](https://img.shields.io/badge/UX-Accessibility-green) |
+| **[ZooManager](https://github.com/jaidev-bot/zoomanager)** | A robust API system developed with Java and Spring Boot to optimize core management processes in zoological facilities. | `Java`, `JPA`, `PostgreSQL`, `Swagger` | ![Arch](https://img.shields.io/badge/Arch-Clean-blue) |
 
 <div align= "center">
 
