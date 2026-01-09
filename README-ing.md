@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="100%"
-   src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&fontSize=70&fontColor=FFFFFFFFFFF&fontAlign=49&fontAlignY=50&stroke=FFFFFFFFFFFFFFFFFFFFFF&strokeWidth=2&animation=blinking&descSize=41&descAlign=51&descAlignY=50&textBg=false&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=FF0000" />
 </div>
 
 
@@ -33,7 +32,9 @@ developer behind it).
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jaiane-de-barros-soares-5897802b5/)
 [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@Jaidev-l5f)
 
-
+<a href="https://substack.com/@jai1156225" target="_blank">
+        <img src="https://img.shields.io/badge/Substack-B22222?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
+      </a>
 
 
 
