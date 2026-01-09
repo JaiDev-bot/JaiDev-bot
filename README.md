@@ -25,7 +25,7 @@ Engenheira de software em formação, viciada em sudoku, filosofia, livros e na 
 [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@Jaidev-l5f)
 
 <a href="https://substack.com/@jai1156225" target="_blank">
-<img src="https://img.shields.io/badge/Substack-006f5c?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
+<img src="https://img.shields.io/badge/Substack-B22222?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
 </a>
 
 ---
