@@ -7,36 +7,24 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F5F5&width=435&lines=Ol%C3%A1%2C+me+chamo+Jaiane!)](https://git.io/typing-svg)
 
-<br>
 
-<table border="0">
-  <tr>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/JaiDev-bot/JaiDev-bot/main/spidercatv%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif" alt="Gato Robô Caindo" width="100%">
-    </td>
-    <td width="55%" valign="top">
-      <h3>Sobre mim</h3>
-      <p align="justify">
-        Engenheira de software em formação, viciada em sudoku, filosofia, livros e na busca pela estética perfeita entre o back-end, análise de dados e a experiência do usuário. Transformando lógica em conexão humana. Enquanto o mundo foca no 'como', eu me perco no 'porquê'. Estudando Java e cloud não apenas para construir sistemas, mas para desenhar experiências que façam as pessoas sentirem que a tecnologia ainda tem alma (e uma desenvolvedora bem criativa).
-      </p>
-      <br>
-      <div align="left">
-        <a href="mailto:jaianesoares700@gmail.com">
-          <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail">
-        </a>
-        <a href="https://www.linkedin.com/in/jaiane-barros-7ab179377/">
-          <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn">
-        </a>
-        <a href="https://www.youtube.com/@Jaidev-l5f">
-          <img src="https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF" alt="Youtube">
-        </a>
-        <a href="https://substack.com/@jai1156225">
-          <img src="https://img.shields.io/badge/Substack-B22222?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
+</div>
+
+Engenheira de Software em formação, viciada em Sudoku e apaixonada por filosofia e livros. Estou em uma busca constante pelo equilíbrio estético perfeito entre a arquitetura back-end, análise de dados e experiência do usuário. Minha missão é transformar lógica em conexão humana. Enquanto o mundo foca no 'como', eu me perco no 'porquê'. Estudo Java e Cloud não apenas para construir sistemas, mas para desenhar experiências que façam as pessoas sentirem que a tecnologia ainda tem alma (e uma desenvolvedora muito criativa por trás dela).
+       
+<div align = "center">
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jaianesoares700@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jaiane-de-barros-soares-5897802b5/)
+[![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@Jaidev-l5f)
+
+<a href="https://substack.com/@jai1156225" target="_blank">
+        <img src="https://img.shields.io/badge/Substack-B22222?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
+      </a>
+
+###
 
 
 
