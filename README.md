@@ -41,11 +41,11 @@ Engenheira de Software em formação, viciada em Sudoku e apaixonada por filosof
 
 
 
-| Projeto | Proposta de Valor | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[Sentinela AI](https://github.com/jaidev-bot/sentinela-ai)** | Analise de sentimento com o Azure AI Language para processar satisfação de clientes através de comentários reais da Olist | `Java`, `Azure AI`, `Cosmos DB` | ![Critical](https://img.shields.io/badge/Security-Critical-red) |
-| **[Echoes of Kindness](https://github.com/jaidev-bot/echoes-kindness)** | O Echoes of Kindness usa IA da Azure e Spring Boot para transcrever consultas em tempo real. Foca em acessibilidade com legendas de alto contraste e salva dados no Cosmos DB. | `Java`, `Spring Boot`, `Azure Speech` | ![UX](https://img.shields.io/badge/UX-Accessibility-green) |
-| **[ZooManager](https://github.com/jaidev-bot/zoomanager)** | Sistema de API desenvolvido com Java e Spring Boot para otimizar processos essenciais de gestão em instalações zoológicas. | `Java`, `JPA`, `PostgreSQL`, `Swagger` | ![Arch](https://img.shields.io/badge/Arch-Clean-blue) |
+| Projeto | Proposta | Tech Stack |
+| :--- | :--- | :--- | 
+| **[Sentinela AI](https://github.com/jaidev-bot/sentinela-ai)** | Analise de sentimento com o Azure AI Language para processar satisfação de clientes através de comentários reais da Olist | `Java`, `Azure AI`, `Cosmos DB` | 
+| **[Echoes of Kindness](https://github.com/jaidev-bot/echoes-kindness)** | O Echoes of Kindness usa IA da Azure e Spring Boot para transcrever consultas em tempo real. Foca em acessibilidade com legendas de alto contraste e salva dados no Cosmos DB. | `Java`, `Spring Boot`, `Azure Speech` | 
+| **[ZooManager](https://github.com/jaidev-bot/zoomanager)** | Sistema de API desenvolvido com Java e Spring Boot para otimizar processos essenciais de gestão em instalações zoológicas. | `Java`, `JPA`, `PostgreSQL`, `Swagger` | 
 
 #
 
