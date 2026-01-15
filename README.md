@@ -12,7 +12,7 @@
   <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
 </div>
 
-Engenheira de Software em formação, viciada em Sudoku e apaixonada por filosofia e livros. Estou em uma busca constante pelo equilíbrio estético perfeito entre a arquitetura back-end, análise de dados e experiência do usuário. Minha missão é transformar lógica em conexão humana. Enquanto o mundo foca no 'como', eu me perco no 'porquê'. Estudo Java e Cloud não apenas para construir sistemas, mas para desenhar experiências que façam as pessoas sentirem que a tecnologia ainda tem alma (e uma desenvolvedora muito criativa por trás dela).
+Engenheira de Software em formação, viciada em sudoku e apaixonada por filosofia e livros. Estou em uma busca constante pelo equilíbrio estético perfeito entre a arquitetura back-end, análise de dados e experiência do usuário. Minha missão é transformar lógica em conexão humana. Enquanto o mundo foca no 'como', eu me perco no 'porquê'. Estudo Java e Cloud não apenas para construir sistemas, mas para desenhar experiências que façam as pessoas sentirem que a tecnologia ainda tem alma (e uma desenvolvedora muito criativa por trás dela).
        
 <div align = "center">
 
