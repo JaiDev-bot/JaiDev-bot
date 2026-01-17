@@ -7,12 +7,16 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F5F5&width=435&lines=Ol%C3%A1%2C+me+chamo+Jaiane!)](https://git.io/typing-svg)
 
+  
 
 <div align="center">
   <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
+
+  Engenheira de Software em formação, viciada em sudoku e café.
 </div>
 
-Engenheira de Software em formação, viciada em sudoku e café.  
+
+
        
 <div align = "center">
 
