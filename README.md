@@ -37,9 +37,9 @@
 
 ## ⚙️Tech Stack
 
-| Backend | Ferramentas |
-| :---: | :---: |
-| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,azure)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,github,idea,figma)](https://skillicons.dev) |
+| Backend | Ferramentas | Frontend
+| :---: | :---: |  :---: |
+| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,azure)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,github,idea,figma)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 </div>
 
