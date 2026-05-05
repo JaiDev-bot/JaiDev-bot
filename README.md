@@ -10,7 +10,7 @@
   
 
 <div align="center">
-  <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/across_the_spider_verse_spider_cat_png_by_metropolis_hero1125_dfzaixy-pre.png"  />
+  <img height="200" src="https://github.com/JaiDev-bot/JaiDev-bot/blob/main/spiderCatCoffe (2).png"  />
 
   Engenheira de Software em formação, viciada em sudoku e café.
 </div>
