@@ -33,19 +33,21 @@ developer behind it).
 [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@Jaidev-l5f)
 
 
-
-
-
-
 <div align="center">
+ 
 
 ## ⚙️Tech Stack
 
-| Backend | Ferramentas |
-| :---: | :---: |
-| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,github,idea)](https://skillicons.dev) |
+| Backend | Ferramentas | Frontend
+| :---: | :---: |  :---: |
+| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,azure)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,github,idea,figma)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 </div>
+
+
+
+
+
 
 ## My Projects:
 
