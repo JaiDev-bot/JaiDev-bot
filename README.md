@@ -59,7 +59,7 @@
 | **[Sentinela AI](https://github.com/jaiane-soares/sentinela-ai)** | Analise de sentimento com o Azure AI Language para processar satisfação de clientes através de comentários reais da Olist. | `Java`, `Azure AI`, `Cosmos DB` | 
 | **[Echoes of Kindness](https://github.com/jaiane-soares/echoes-kindness)** | O Echoes of Kindness usa IA da Azure e Spring Boot para transcrever consultas em tempo real. Foca em acessibilidade com legendas de alto contraste e salva dados no Cosmos DB. | `Java`, `Spring Boot`, `Azure Speech` | 
 | **[ZooManager](https://github.com/jaiane-soares/zoomanager)** | Sistema de API desenvolvido com Java e Spring Boot para otimizar processos essenciais de gestão em instalações zoológicas. | `Java`, `JPA`, `PostgreSQL`, `Swagger` | 
-| **[Azure-Cloud-Solutions-Lab](https://github.com/jaiane-soares/Azure-Cloud-Solutions-Lab)** | Laboratório técnico para testes e provas de conceito. Aqui você encontra meus progressos acadêmicos e minhas reflexões críticas (exposed) sobre as decisões de design do portal(rs) | `Azure`, `Azure AI Service`, `Azure Video Indexer`| 
+| **[Azure-Cloud-Solutions-Lab](https://github.com/jaiane-soares/Azure-Cloud-Solutions-Lab)** | Laboratório técnico para testes e provas de conceito. Aqui você encontra meus progressos acadêmicos e minhas reflexões críticas sobre as decisões de design do portal(rs) | `Azure`, `Azure AI Service`, `Azure Video Indexer`| 
 
 
 
